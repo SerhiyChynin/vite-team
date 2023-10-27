@@ -1,4 +1,6 @@
 
-li{
+footer li{
         background-color: yellowgreen;
+        padding: 20px;
+        margin: 20px;
 }
