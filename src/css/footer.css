@@ -1,6 +1,9 @@
 
 footer li{
-        background-color: yellowgreen;
-        padding: 20px;
-        margin: 20px;
+    background-color: yellowgreen;
+    padding: 20px;
+    margin: 20px;
+}
+.red{
+    background-color: red;
 }
